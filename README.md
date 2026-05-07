@@ -1,2 +1,1 @@
-# Grocery-Store-POS
-Jayaneth Ushan
+# Janith-mobile-POS
